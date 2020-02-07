@@ -1,4 +1,4 @@
-# Menja
+# slicer
 
 A game about smashing cubes.
 
