@@ -14,7 +14,7 @@ const PERF_UPDATE = () => {};
 // ------------------------------------
 // ------------------------------------
 
-/*
+
 const perfUpdateRate = 300; // ms
 let perfLastUpdateTime = performance.now();
 
@@ -70,4 +70,4 @@ const PERF_UPDATE = () => {
 		perfLastUpdateTime = performance.now();
 	}
 }
-*/
+
